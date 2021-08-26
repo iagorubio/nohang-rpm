@@ -1,4 +1,4 @@
-%global commit  g953b41a
+%global   commit     g953b41a
 
 Name:           nohang
 Version:        0.2.0
